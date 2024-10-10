@@ -22,7 +22,7 @@ I might still go for FANUC robots (for their reliability) in a final industrial 
 <!-- Placeholder images and video links -->
 <div style="display: flex; justify-content: space-between;">
   <a href="https://www.youtube.com/embed/3eA-bqIa78I?si=SH5t6q5aga3LXWin" target="_blank">
-    <img src="/assets/images/Screenshot-WorkcellBuildOut-Step01.png" | relative_url alt="Video 1" style="width: 18%;">    
+    <img src="/assets/images/Screenshot-WorkcellBuildOut-Step01.png" alt="Video 1" style="width: 18%;">    
   </a>
 
   <a href="https://www.youtube.com/embed/J6ypmclWYtI?si=Ii05huXiAeRsfDBM" target="_blank">
