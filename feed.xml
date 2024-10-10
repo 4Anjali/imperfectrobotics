@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="https://4anjali.github.io/imperfectrobotics/feed.xml" rel="self" type="application/atom+xml" /><link href="https://4anjali.github.io/imperfectrobotics/" rel="alternate" type="text/html" /><updated>2024-10-10T15:44:25+00:00</updated><id>https://4anjali.github.io/imperfectrobotics/feed.xml</id><title type="html">Project- AI and Robotics to Save Food</title><subtitle>Imperfect Foods Project Site.</subtitle><entry><title type="html">Robotic Workcell Buildout: Step#05: Tame the robot - i.e. figure out how to make the robot dance to my tunes</title><link href="https://4anjali.github.io/imperfectrobotics/personal/2024/10/03/FullBuidOutSeq.html" rel="alternate" type="text/html" title="Robotic Workcell Buildout: Step#05: Tame the robot - i.e. figure out how to make the robot dance to my tunes" /><published>2024-10-03T02:23:57+00:00</published><updated>2024-10-03T02:23:57+00:00</updated><id>https://4anjali.github.io/imperfectrobotics/personal/2024/10/03/FullBuidOutSeq</id><content type="html" xml:base="https://4anjali.github.io/imperfectrobotics/personal/2024/10/03/FullBuidOutSeq.html"><![CDATA[<p>In this step I trudge through the manuals and do extensive trial and error to figure out the way to control the robot. This video does not quite show the extent of trial and error and working with the robot support call center that went into getting it to work.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="https://4anjali.github.io/imperfectrobotics/feed.xml" rel="self" type="application/atom+xml" /><link href="https://4anjali.github.io/imperfectrobotics/" rel="alternate" type="text/html" /><updated>2024-10-10T15:53:00+00:00</updated><id>https://4anjali.github.io/imperfectrobotics/feed.xml</id><title type="html">Project- AI and Robotics to Save Food</title><subtitle>Imperfect Foods Project Site.</subtitle><entry><title type="html">Robotic Workcell Buildout: Step#05: Tame the robot - i.e. figure out how to make the robot dance to my tunes</title><link href="https://4anjali.github.io/imperfectrobotics/personal/2024/10/03/FullBuidOutSeq.html" rel="alternate" type="text/html" title="Robotic Workcell Buildout: Step#05: Tame the robot - i.e. figure out how to make the robot dance to my tunes" /><published>2024-10-03T02:23:57+00:00</published><updated>2024-10-03T02:23:57+00:00</updated><id>https://4anjali.github.io/imperfectrobotics/personal/2024/10/03/FullBuidOutSeq</id><content type="html" xml:base="https://4anjali.github.io/imperfectrobotics/personal/2024/10/03/FullBuidOutSeq.html"><![CDATA[<p>In this step I trudge through the manuals and do extensive trial and error to figure out the way to control the robot. This video does not quite show the extent of trial and error and working with the robot support call center that went into getting it to work.</p>
 
 <p>The alternative is to use more mature industrial robotic systems like FANUC or Kuka. These are highly mature but expensive industrial robotic solutions. Many of the kinks and issues are already taken care of in these robots, so they may be easier to work with. Go to the exchange about FANUC robots, at the 14 min. time stamp in this video, to see what I’m referring to.</p>
 
@@ -12,25 +12,25 @@
 </div>
 
 <!-- Placeholder images and video links -->
-<div style="display: flex; justify-content: space-between;">
+<div style="display: flex; justify-content: space-around; gap: 5px;">
   <a href="https://www.youtube.com/embed/3eA-bqIa78I?si=SH5t6q5aga3LXWin" target="_blank">
-    <img src="/imperfectrobotics/assets/images/Screenshot-WorkcellBuildOut-Step01.png" alt="Video 1" style="width: 18%;" />    
+    <img src="/imperfectrobotics/assets/images/Screenshot-WorkcellBuildOut-Step01.png" alt="Video 1" style="width: 22%;" />    
   </a>
 
   <a href="https://www.youtube.com/embed/J6ypmclWYtI?si=Ii05huXiAeRsfDBM" target="_blank">
-    <img src="/imperfectrobotics/assets/images/Screenshot-WorkcellBuildOut-Step02.png" alt="Video 2" style="width: 18%;" />
+    <img src="/imperfectrobotics/assets/images/Screenshot-WorkcellBuildOut-Step02.png" alt="Video 2" style="width: 22%;" />
   </a>
 
   <a href="https://www.youtube.com/embed/C5wmP4ESKaI?si=82XNa9LGL3L5Djz7" target="_blank">
-    <img src="/imperfectrobotics/assets/images/Screenshot-WorkcellBuildOut-Step03.png" alt="Video 3" style="width: 18%;" />
+    <img src="/imperfectrobotics/assets/images/Screenshot-WorkcellBuildOut-Step03.png" alt="Video 3" style="width: 22%;" />
   </a>
 
   <a href="https://www.youtube.com/embed/5fhrYFDEsW8?si=_jvEGbxICICRkAt-" target="_blank">
-    <img src="/imperfectrobotics/assets/images/Screenshot-WorkcellBuildOut-Step04.png" alt="Video 4" style="width: 18%;" />
+    <img src="/imperfectrobotics/assets/images/Screenshot-WorkcellBuildOut-Step04.png" alt="Video 4" style="width: 22%;" />
   </a>
 
   <a href="https://www.youtube.com/embed/I38oKfu_7nI?si=kBC6A0czIj_lAlnx" target="_blank">
-    <img src="/imperfectrobotics/assets/images/Screenshot-WorkcellBuildOut-Step05.png" alt="Video 5" style="width: 18%;" />
+    <img src="/imperfectrobotics/assets/images/Screenshot-WorkcellBuildOut-Step05.png" alt="Video 5" style="width: 22%;" />
 
 
   </a>
