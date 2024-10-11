@@ -56,10 +56,13 @@
 <style>
   .video-container {
     position: relative;
-    width: 80%;
+    width: 98%;
   }
   .video-container img {
     width: 100%;
+  }
+  .first-video img {
+    border: 5px solid #333; /* dark grey border */
   }
   .video-container iframe {
     position: absolute;
@@ -92,18 +95,20 @@
   
   .video-row {
     display: flex;
-    align-items: flex-end;
+    flex-direction: column;
+    align-items: center;
     margin-bottom: 20px;
   }
   .video-text {
-    width: 20%;
-    text-align: left;
+    width: 100%;
+    text-align: center;
+    margin-top: 10px;
   }
 </style>
 
 <div>
   <div class="video-row">
-    <div class="video-container">
+    <div class="video-container first-video">
       <a href="https://www.youtube.com/embed/_O1OchS2HuA?si=dxYoK4RhUsil_k4C" target="_blank">
         <img src="/imperfectrobotics/assets/images/Screenshot-2024-SEFMD-FoodSaver-Preso.png" alt="Video 1" />
         <div class="play-icon"></div>
