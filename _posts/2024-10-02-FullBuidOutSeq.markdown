@@ -111,4 +111,16 @@ In here, I lay out all the steps in building out the robotic workcell. The video
       2024 ROBOFEST World Championships Video Submission
     </div>
   </div>
+
+  <div class="video-row">
+    <div class="video-container">
+      <a href="https://www.youtube.com/embed/i3koG6CQ9GY?si=H2TdosjAdJySzVvT" target="_blank">
+        <img src="/imperfectrobotics/assets/images/ROBOfest-presentCell2Group1.png" alt="Video 7">
+        <iframe src="https://www.youtube.com/embed/i3koG6CQ9GY?autoplay=1&mute=1"></iframe>
+      </a>
+    </div>
+    <div class="video-text">
+      Presenting my food sorter robotic work cell at the 2024 ROBOFEST world championship...
+    </div>
+  </div>
 </div>
