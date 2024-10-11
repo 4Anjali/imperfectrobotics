@@ -25,6 +25,20 @@ In here, I lay out all the steps in building out the robotic workcell. The video
     height: 100%;
     display: none;
   }
+  .video-container .play-icon {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 60px;
+    height: 60px;
+    background: url('/path/to/play-icon.png') no-repeat center center;
+    background-size: contain;
+    display: none;
+  }
+  .video-container:hover .play-icon {
+    display: block;
+  }
   .video-container:hover iframe {
     display: block;
   }
@@ -35,7 +49,7 @@ In here, I lay out all the steps in building out the robotic workcell. The video
   }
   .video-text {
     width: 20%;
-    text-align: right;
+    text-align: left;
   }
 </style>
 
@@ -44,6 +58,7 @@ In here, I lay out all the steps in building out the robotic workcell. The video
     <div class="video-container">
       <a href="https://www.youtube.com/embed/_O1OchS2HuA?si=dxYoK4RhUsil_k4C" target="_blank">
         <img src="/imperfectrobotics/assets/images/Screenshot-WorkcellBuildOut-Step01.png" alt="Video 1">
+        <div class="play-icon"></div>
         <iframe src="https://www.youtube.com/embed/_O1OchS2HuA?autoplay=1&mute=1"></iframe>
       </a>
     </div>
@@ -56,6 +71,7 @@ In here, I lay out all the steps in building out the robotic workcell. The video
     <div class="video-container">
       <a href="https://www.youtube.com/embed/3eA-bqIa78I?si=SH5t6q5aga3LXWin" target="_blank">
         <img src="/imperfectrobotics/assets/images/Screenshot-WorkcellBuildOut-Step01.png" alt="Video 1">
+        <div class="play-icon"></div>
         <iframe src="https://www.youtube.com/embed/3eA-bqIa78I?autoplay=1&mute=1"></iframe>
       </a>
     </div>
@@ -68,6 +84,7 @@ In here, I lay out all the steps in building out the robotic workcell. The video
     <div class="video-container">
       <a href="https://www.youtube.com/embed/J6ypmclWYtI?si=Ii05huXiAeRsfDBM" target="_blank">
         <img src="/imperfectrobotics/assets/images/Screenshot-WorkcellBuildOut-Step02.png" alt="Video 2">
+        <div class="play-icon"></div>
         <iframe src="https://www.youtube.com/embed/J6ypmclWYtI?autoplay=1&mute=1"></iframe>
       </a>
     </div>
@@ -80,6 +97,7 @@ In here, I lay out all the steps in building out the robotic workcell. The video
     <div class="video-container">
       <a href="https://www.youtube.com/embed/C5wmP4ESKaI?si=82XNa9LGL3L5Djz7" target="_blank">
         <img src="/imperfectrobotics/assets/images/Screenshot-WorkcellBuildOut-Step03.png" alt="Video 3">
+        <div class="play-icon"></div>
         <iframe src="https://www.youtube.com/embed/C5wmP4ESKaI?autoplay=1&mute=1"></iframe>
       </a>
     </div>
@@ -92,6 +110,7 @@ In here, I lay out all the steps in building out the robotic workcell. The video
     <div class="video-container">
       <a href="https://www.youtube.com/embed/5fhrYFDEsW8?si=_jvEGbxICICRkAt-" target="_blank">
         <img src="/imperfectrobotics/assets/images/Screenshot-WorkcellBuildOut-Step04.png" alt="Video 4">
+        <div class="play-icon"></div>
         <iframe src="https://www.youtube.com/embed/5fhrYFDEsW8?autoplay=1&mute=1"></iframe>
       </a>
     </div>
@@ -104,6 +123,7 @@ In here, I lay out all the steps in building out the robotic workcell. The video
     <div class="video-container">
       <a href="https://www.youtube.com/embed/I38oKfu_7nI?si=kBC6A0czIj_lAlnx" target="_blank">
         <img src="/imperfectrobotics/assets/images/Screenshot-WorkcellBuildOut-Step05.png" alt="Video 5">
+        <div class="play-icon"></div>
         <iframe src="https://www.youtube.com/embed/I38oKfu_7nI?autoplay=1&mute=1"></iframe>
       </a>
     </div>
@@ -116,6 +136,7 @@ In here, I lay out all the steps in building out the robotic workcell. The video
     <div class="video-container">
       <a href="https://www.youtube.com/embed/7k_JH1KTvBA?si=l-utOizO79Od75Z5" target="_blank">
         <img src="/imperfectrobotics/assets/images/ROBOFEST-VidSbmit-Screenshot.png" alt="Video 6">
+        <div class="play-icon"></div>
         <iframe src="https://www.youtube.com/embed/7k_JH1KTvBA?autoplay=1&mute=1"></iframe>
       </a>
     </div>
@@ -128,6 +149,7 @@ In here, I lay out all the steps in building out the robotic workcell. The video
     <div class="video-container">
       <a href="https://www.youtube.com/embed/i3koG6CQ9GY?si=H2TdosjAdJySzVvT" target="_blank">
         <img src="/imperfectrobotics/assets/images/ROBOfest-presentCell2Group1.png" alt="Video 7">
+        <div class="play-icon"></div>
         <iframe src="https://www.youtube.com/embed/i3koG6CQ9GY?autoplay=1&mute=1"></iframe>
       </a>
     </div>
