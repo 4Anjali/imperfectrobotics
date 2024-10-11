@@ -1,25 +1,41 @@
 ---
 layout: post
-title: "Robotic Workcell Buildout: Step#05: Tame the robot - i.e. figure out how to make the robot dance to my tunes"
+title: "Robotic Workcell Buildout Videos: Full Sequence"
 date: 2024-10-02 22:23:57 -0400
 categories: Personal
 image: /assets/images/Screenshot-WorkcellBuildOut-Step05.png
-blurb: "Step#05: In which I tame the robot - i.e. figure out how to control the robot motions..."
+blurb: "This post shows the key stages of the robot work cell setup and programming. For more details on in between stages, scroll down to other posts"
 ---
 
-In this step I trudge through the manuals and do extensive trial and error to figure out the way to control the robot. This video does not quite show the extent of trial and error and working with the robot support call center that went into getting it to work.
+In here, I lay out all the steps in building out the robotic workcell. The videos listed below show only some of the key steps. Many other steps were involved and you can see these by scrolling down to other posts. I'll continue to post more of the intermediate stages as I am able to create the videos.
 
-The alternative is to use more mature industrial robotic systems like FANUC or Kuka. These are highly mature but expensive industrial robotic solutions. Many of the kinks and issues are already taken care of in these robots, so they may be easier to work with. Go to the exchange about FANUC robots, at the 14 min. time stamp in this video, to see what I’m referring to.
-
-Robots from startups require a lot more figuring out, hacking, perseverance and also technical expertise. So why did I inflict this on myself? ‘Price’ is the single word answer. The robot I chose while still expensive for my budget was relatively cheaper than the FANUC robots which I was looking at earlier. For instance the cheapest models from firms like FANUC and KUKA start in the 30-50K range. I’ve trained on FANUC robots as part of a college level course on industrial robotics. Yet I could not use them because of the steep price point.
-
-I might still go for FANUC robots (for their reliability) in a final industrial grade version of my robotic solution. However, for the piloting phase I decided to go for a cheaper alternative with the knowledge that I’ll have to do some hacking around to figure out the robot. Those are the choices I’ve made and I’m happy with them. Your unique situation might need different choices.
+<style>
+  .video-container {
+    position: relative;
+    width: 66%;
+  }
+  .video-container img {
+    width: 100%;
+  }
+  .video-container iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: none;
+  }
+  .video-container:hover iframe {
+    display: block;
+  }
+</style>
 
 <div style="display: flex; flex-direction: column; gap: 20px;">
   <div style="display: flex; align-items: flex-end;">
-    <div style="width: 66%;">
+    <div class="video-container">
       <a href="https://www.youtube.com/embed/3eA-bqIa78I?si=SH5t6q5aga3LXWin" target="_blank">
-        <img src="/imperfectrobotics/assets/images/Screenshot-WorkcellBuildOut-Step01.png" alt="Video 1" style="width: 100%;">    
+        <img src="/imperfectrobotics/assets/images/Screenshot-WorkcellBuildOut-Step01.png" alt="Video 1">
+        <iframe src="https://www.youtube.com/embed/3eA-bqIa78I?autoplay=1&mute=1"></iframe>
       </a>
     </div>
     <div style="width: 33%; text-align: right;">
@@ -28,9 +44,10 @@ I might still go for FANUC robots (for their reliability) in a final industrial 
   </div>
 
   <div style="display: flex; align-items: flex-end;">
-    <div style="width: 66%;">
+    <div class="video-container">
       <a href="https://www.youtube.com/embed/J6ypmclWYtI?si=Ii05huXiAeRsfDBM" target="_blank">
-        <img src="/imperfectrobotics/assets/images/Screenshot-WorkcellBuildOut-Step02.png" alt="Video 2" style="width: 100%;">
+        <img src="/imperfectrobotics/assets/images/Screenshot-WorkcellBuildOut-Step02.png" alt="Video 2">
+        <iframe src="https://www.youtube.com/embed/J6ypmclWYtI?autoplay=1&mute=1"></iframe>
       </a>
     </div>
     <div style="width: 33%; text-align: right;">
@@ -39,9 +56,10 @@ I might still go for FANUC robots (for their reliability) in a final industrial 
   </div>
 
   <div style="display: flex; align-items: flex-end;">
-    <div style="width: 66%;">
+    <div class="video-container">
       <a href="https://www.youtube.com/embed/C5wmP4ESKaI?si=82XNa9LGL3L5Djz7" target="_blank">
-        <img src="/imperfectrobotics/assets/images/Screenshot-WorkcellBuildOut-Step03.png" alt="Video 3" style="width: 100%;">
+        <img src="/imperfectrobotics/assets/images/Screenshot-WorkcellBuildOut-Step03.png" alt="Video 3">
+        <iframe src="https://www.youtube.com/embed/C5wmP4ESKaI?autoplay=1&mute=1"></iframe>
       </a>
     </div>
     <div style="width: 33%; text-align: right;">
@@ -50,9 +68,10 @@ I might still go for FANUC robots (for their reliability) in a final industrial 
   </div>
 
   <div style="display: flex; align-items: flex-end;">
-    <div style="width: 66%;">
+    <div class="video-container">
       <a href="https://www.youtube.com/embed/5fhrYFDEsW8?si=_jvEGbxICICRkAt-" target="_blank">
-        <img src="/imperfectrobotics/assets/images/Screenshot-WorkcellBuildOut-Step04.png" alt="Video 4" style="width: 100%;">
+        <img src="/imperfectrobotics/assets/images/Screenshot-WorkcellBuildOut-Step04.png" alt="Video 4">
+        <iframe src="https://www.youtube.com/embed/5fhrYFDEsW8?autoplay=1&mute=1"></iframe>
       </a>
     </div>
     <div style="width: 33%; text-align: right;">
@@ -61,9 +80,10 @@ I might still go for FANUC robots (for their reliability) in a final industrial 
   </div>
 
   <div style="display: flex; align-items: flex-end;">
-    <div style="width: 66%;">
+    <div class="video-container">
       <a href="https://www.youtube.com/embed/I38oKfu_7nI?si=kBC6A0czIj_lAlnx" target="_blank">
-        <img src="/imperfectrobotics/assets/images/Screenshot-WorkcellBuildOut-Step05.png" alt="Video 5" style="width: 100%;">
+        <img src="/imperfectrobotics/assets/images/Screenshot-WorkcellBuildOut-Step05.png" alt="Video 5">
+        <iframe src="https://www.youtube.com/embed/I38oKfu_7nI?autoplay=1&mute=1"></iframe>
       </a>
     </div>
     <div style="width: 33%; text-align: right;">
