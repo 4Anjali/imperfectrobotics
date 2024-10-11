@@ -42,6 +42,18 @@ In here, I lay out all the steps in building out the robotic workcell. The video
 <div>
   <div class="video-row">
     <div class="video-container">
+      <a href="https://www.youtube.com/embed/_O1OchS2HuA?si=dxYoK4RhUsil_k4C" target="_blank">
+        <img src="/imperfectrobotics/assets/images/Screenshot-WorkcellBuildOut-Step01.png" alt="Video 1">
+        <iframe src="https://www.youtube.com/embed/_O1OchS2HuA?autoplay=1&mute=1"></iframe>
+      </a>
+    </div>
+    <div class="video-text">
+      Presenting at the 2024 ROBOFEST Michigan Senior Division Qualifiers
+    </div>
+  </div>
+
+  <div class="video-row">
+    <div class="video-container">
       <a href="https://www.youtube.com/embed/3eA-bqIa78I?si=SH5t6q5aga3LXWin" target="_blank">
         <img src="/imperfectrobotics/assets/images/Screenshot-WorkcellBuildOut-Step01.png" alt="Video 1">
         <iframe src="https://www.youtube.com/embed/3eA-bqIa78I?autoplay=1&mute=1"></iframe>
