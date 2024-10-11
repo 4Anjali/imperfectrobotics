@@ -89,5 +89,16 @@ In here, I lay out all the steps in building out the robotic workcell. The video
     <div style="width: 33%; text-align: right;">
       Assembly Step 5
     </div>
+
+ <div style="display: flex; align-items: flex-end;">
+    <div class="video-container">
+      <a href="https://www.youtube.com/embed/7k_JH1KTvBA?si=l-utOizO79Od75Z5" target="_blank">
+        <img src="/imperfectrobotics/assets/images/ROBOFEST-VidSbmit-Screenshot.png" alt="Video 6">
+        <iframe src="https://www.youtube.com/embed/7k_JH1KTvBA?autoplay=1&mute=1"></iframe>
+      </a>
+    </div>
+    <div style="width: 33%; text-align: right;">
+      2024 ROBOFEST World Championships Video Submission
+    </div>
   </div>
 </div>
