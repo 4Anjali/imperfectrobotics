@@ -32,7 +32,7 @@ In here, I lay out all the steps in building out the robotic workcell. The video
     transform: translate(-50%, -50%);
     width: 60px;
     height: 60px;
-    background: url('/imperfectrobotics/assets/images/Youtube-Play-Icon.png') no-repeat center center;
+    background: url('/assets/images/Youtube-Play-Icon.png') no-repeat center center;
     background-size: contain;
     display: none;
   }
