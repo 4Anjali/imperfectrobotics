@@ -1,5 +1,5 @@
 ---
-layout: home
-title: Project Blog
-permalink: /track/
+layout: page
+title: Status
+permalink: /
 ---
