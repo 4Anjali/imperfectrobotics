@@ -12,7 +12,7 @@ In here, I lay out all the steps in building out the robotic workcell. The video
 <style>
   .video-container {
     position: relative;
-    width: 80%;
+    width: 85%;
   }
   .video-container img {
     width: 100%;
