@@ -23,8 +23,10 @@ In here, I lay out all the steps in building out the robotic workcell. The video
     left: 0;
     width: 100%;
     height: 100%;
-    display: none;
+    opacity: 0;
+    transition: opacity 0.5s;
   }
+
   .video-container .play-icon {
     position: absolute;
     top: 50%;
@@ -41,8 +43,9 @@ In here, I lay out all the steps in building out the robotic workcell. The video
     display: block;
   }
   .video-container:hover iframe {
-    display: block;
+    opacity: 1;
   }
+  
   .video-row {
     display: flex;
     align-items: flex-end;
