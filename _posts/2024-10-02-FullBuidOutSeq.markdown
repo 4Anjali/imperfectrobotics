@@ -58,7 +58,7 @@ In here, I lay out all the steps in building out the robotic workcell. The video
   <div class="video-row">
     <div class="video-container">
       <a href="https://www.youtube.com/embed/_O1OchS2HuA?si=dxYoK4RhUsil_k4C" target="_blank">
-        <img src="/imperfectrobotics/assets/images/Screenshot-WorkcellBuildOut-Step01.png" alt="Video 1">
+        <img src="/imperfectrobotics/assets/images/Screenshot-2024-SEFMD-FoodSaver-Preso.png" alt="Video 1">
         <div class="play-icon"></div>
         <iframe src="https://www.youtube.com/embed/_O1OchS2HuA?autoplay=1&mute=1"></iframe>
       </a>
