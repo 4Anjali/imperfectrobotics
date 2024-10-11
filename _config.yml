@@ -34,14 +34,6 @@ plugins:
   - jekyll-feed
   - jekyll/tagging
 
-# Navigation settings
-navigation:
-  - title: "Project Blog"
-    url: "/"
-  - title: "About"
-    url: "/about"
-  - title: "Status"
-    url: "/status"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
