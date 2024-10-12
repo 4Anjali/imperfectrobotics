@@ -18,7 +18,7 @@ In here, I lay out all the steps in building out the robotic workcell. The video
     width: 100%;
   }
   .first-video img {
-    border: 5px solid #333; /* dark grey border */
+    border: 2.5px solid #d3d3d3; /* light grey border */
   }
   .video-container iframe {
     position: absolute;
