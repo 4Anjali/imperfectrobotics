@@ -14,8 +14,9 @@ permalink: /
 - Figure out way for 360 degree view of carrots (use multiple cameras?)
 
 ### Future Work:
-- Make end of gripper work for carrots
-- Figure out way for 360 degree view of carrots (use multiple cameras?)
+- Scale to more produce items
+- Collaborate with local farms
+- Collaborate with interested firms
 
 
 If you are interested in contributing to this initiative, please write to anjali.sharma@limelab.org with your vita and a less than 500 word statement describing why you are interested and how you wish to contribute. 
