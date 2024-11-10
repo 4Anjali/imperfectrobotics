@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 # Site settings
-title: Project: Robotics to Save Food
+title: Project- Robotics to Save Food
 email: anjali.sharma@limelab.org
 description: >- # this means to ignore newlines until "baseurl:"
   Imperfect Foods Project Site.
