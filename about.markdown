@@ -18,5 +18,6 @@ Given our location in Detroit, we are starting with a pilot project to serve fre
 - Develop a sustainbale and viable distribution system in Detorit to eliminate food dessert zones
   
 ### Current Status
-For current status of this project, [click here]({{ "/" | relative_url }})
-Click here to see how you can contribute to this project - .
+For current status of this project,click [Status]({{ "/" | relative_url }})
+
+To see how you can contribute to this project,click [Team]({{ "/team" | relative_url }})
