@@ -19,5 +19,3 @@ Given our location in Detroit, we are starting with a pilot project to serve fre
   
 ### Current Status
 For current status of this project,click [Status]({{ "/" | relative_url }})
-
-To see how you can contribute to this project,click [Team]({{ "/team" | relative_url }})
