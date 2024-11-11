@@ -6,6 +6,7 @@ categories: Personal
 image: /assets/images/LimeLab-2018-Nov-BoyScoutsCamp-ShowNeuro.jpg
 blurb: "#Nostalgia: LIME Lab partnered with the Boy Scouts for their STEM Quest event. This was our booth to showcase some of our projects, mostly based on Arduino…"
 tags: ["robotics", "limelab", "nostalgia", "my-journey"]
+published: false
 ---
 ![STEMQUEST]({{ "/assets/images/LimeLab-2018-Nov-BoyScoutsCamp-ShowNeuro.jpg" | relative_url }})
 
