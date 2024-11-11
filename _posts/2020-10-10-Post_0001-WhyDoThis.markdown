@@ -24,7 +24,7 @@ Suddenly all my dad's comments about respecting food have taken on such immediac
 
 As if this was not enough, he has now asked me to research about inequity in access to food , about food waste. And this means that I am thinking even more about food all the time. But, it has paradoxically taken away the sting since I see how lucky we are to at least have food on the table for every meal.
 
-It's been a revelation to know that 30% of the food produced globally gets wasted! And that is when I decided to do something about food and needless hunger. I believe saving food waste is worth putting my time into and I intend to do something about it.
+It's been a revelation to know that 30% of the food produced globally gets wasted! And that is when I decided to do something about food and needless hunger. In a way, reducing food waste is as good as producing food and I intend to do something about it.
 
 This project is about saving imperfect foods.
 
