@@ -19,4 +19,4 @@ permalink: /
 - Collaborate with interested firms
 
 
-If you are interested in contributing to this initiative, click here. 
+If you are interested in contributing to this initiative,click [Team]({{ "/team" | relative_url }})
