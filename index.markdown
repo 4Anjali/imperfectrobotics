@@ -19,4 +19,4 @@ permalink: /
 - Collaborate with interested firms
 
 
-If you are interested in contributing to this initiative, please write to anjali.sharma@limelab.org with your vita and a less than 250 word statement describing why you are interested and how you wish to contribute. 
+If you are interested in contributing to this initiative, click here. 
