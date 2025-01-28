@@ -25,12 +25,12 @@ If you are interested in contributing to this initiative,click [Team]({{ "/team"
 <div>
     <table>
         <tr>
-            <td><img src="assets/images/Dorna-1.jpg" alt="Dorna 1" width="200"></td>
+            <td><img src="assets/images/Dorna-4.jpg" alt="Dorna 1" width="200"></td>
             <td><img src="assets/images/Dorna-2.jpg" alt="Dorna 2" width="200"></td>
         </tr>
         <tr>
-            <td><img src="assets/images/Dorna-3.jpg" alt="Dorna 3" width="200"></td>
-            <td><img src="assets/images/Dorna-4.jpg" alt="Dorna 4" width="200"></td>
+            <td><img src="assets/images/Dorna-1.jpg" alt="Dorna 3" width="200"></td>
+            <td><img src="assets/images/Dorna-3.jpg" alt="Dorna 4" width="200"></td>
         </tr>
     </table>
 </div>
