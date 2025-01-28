@@ -5,13 +5,20 @@ permalink: /
 ---
 
 ### Completed:
+- Robot installed for prototyping
+- Vacumm End of Arm tool integrated
+- Air Compressor Integrated with Vacumm EoAT
 - Camera integrated with robotic arm
-- Machine Vision model correctly detecting good, bad, imperfect carrots
+- Produce images acquired, pre-processed and labeled
+- Machine vision algorithm trained for detecting good, bad, imperfect carrots
+- Robot programmed
 - Robotic arm moving to correct bins based on classification
+- Robotic workcell assembled
 
 ### Work In Process Tasks:
-- Make end of gripper work for carrots
+- Make gripper work for carrots
 - Figure out way for 360 degree view of carrots (use multiple cameras?)
+- Improve accuracy of object detection algorithm under varying light conditions
 
 ### Future Work:
 - Scale to more produce items
@@ -22,7 +29,7 @@ permalink: /
 If you are interested in contributing to this initiative,click [Team]({{ "/team" | relative_url }})
 
 <!-- New 2x2 Image Grid Section -->
-div>
+<div>
     <table>
         <tr>
             <td><img src="assets/images/Dorna-1.jpg" alt="Dorna 1" width="400"></td>
