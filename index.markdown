@@ -25,9 +25,6 @@ permalink: /
 - Collaborate with local farms
 - Collaborate with interested firms
 
-
-If you are interested in contributing to this initiative,click [Team]({{ "/team" | relative_url }})
-
 <!-- New 2x2 Image Grid Section -->
 <div>
     <table>
@@ -41,3 +38,5 @@ If you are interested in contributing to this initiative,click [Team]({{ "/team"
         </tr>
     </table>
 </div>
+
+If you are interested in contributing to this initiative,click [Team]({{ "/team" | relative_url }})
