@@ -17,7 +17,7 @@ permalink: /
 
 ### Work In Process Tasks:
 - Make gripper work for carrots
-- Figure out way for 360 degree view of carrots (use multiple cameras?)
+- Design for 360 degree view of produce items (use multiple cameras?)
 - Improve accuracy of object detection algorithm under varying light conditions
 
 ### Future Work:
